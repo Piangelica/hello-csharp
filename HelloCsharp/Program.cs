@@ -15,5 +15,4 @@ System.Console.WriteLine("Novembre");
 System.Console.WriteLine("Dicembre");
 System.Console.WriteLine("Inserisci il tuo mese preferito:");
 var testo = Console.ReadLine();
-
 System.Console.WriteLine("Grazie, arrivederci!");
